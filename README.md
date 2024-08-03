@@ -17,7 +17,7 @@ Risk Assessment: <br/>
 
  <p align="center">
  Findings and Recommendations:  <br/>
-<img src=""/>
+<img src="https://github.com/qwoods67/SecurityAuditproject/blob/main/screenshots/Controls%20and%20compliance.png"/>
 <br />
 <br />
 Enter the number of passes: <br/>
