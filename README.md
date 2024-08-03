@@ -21,15 +21,15 @@ Risk Assessment: <br/>
 <br />
 <br />
 
-<img src=""/>
+<img src="https://github.com/qwoods67/SecurityAuditproject/blob/main/screenshots/Controls%20and%20compliance.png1.png"/>
 <br />
 <br />
 
 <img src=""/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="/>
 <br />
 <br />
 Sanitization complete:  <br/>
