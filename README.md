@@ -20,12 +20,12 @@ Risk Assessment: <br/>
 <img src="https://github.com/qwoods67/SecurityAuditproject/blob/main/screenshots/Controls%20and%20compliance.png"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src=""/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src=""/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
