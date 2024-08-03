@@ -10,12 +10,14 @@ In this project a internal security audit was conducted for a fictional company 
 
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Risk Assessment: <br/>
+<img src="https://github.com/qwoods67/SecurityAuditproject/blob/main/screenshots/Screenshot%202024-08-03%20140725.png"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+ <p align="center">
+ Findings and Recommendations:  <br/>
+<img src=""/>
 <br />
 <br />
 Enter the number of passes: <br/>
