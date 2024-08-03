@@ -2,7 +2,7 @@
 
  
 <h2>Description</h2>
-In this project a internal security audit was conducted for a fictional company named Botium Toys to assess the current security posture and identify potential risks and compliance issues.  The audit aims to provide a comprehensive overview of the company’s vulnerabilities and suggest actionable recommendations to mitigate risks and ensure compliance.  Key findings and recommendations were documented to guide the company in enhancing its security measures.
+In this project a internal security audit was conducted for a fictional company named Botium Toys to assess the current security posture and identify potential risks and compliance issues.  The aim of the audit was to provide a comprehensive overview of the company’s vulnerabilities and suggest actionable recommendations to mitigate risks and ensure compliance.  Key findings and recommendations were documented to guide the company in enhancing its security measures.
 <br />
 
 
